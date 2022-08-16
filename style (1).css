@@ -1,0 +1,30 @@
+        h1 {
+            text-align: center;
+            color: white;
+            background: black;
+        p {
+        }
+            text-align: center;
+            color: black;
+        }
+        img {
+            display: block;
+            margin: 0px auto;
+
+        }
+ul {
+    font-size: 20px;
+    text-align: center;
+}
+.seguro{
+    font-weight:bold;
+}
+.comprometidos{
+    color: yellow;
+}
+.emdia{
+    text-align: center;
+}
+li{
+    font-weight:bold
+}                     
